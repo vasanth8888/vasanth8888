@@ -14,6 +14,11 @@ public class GitHub {
 		System.out.println("two");
 
 	}
+	private void method3() {
+		// TODO Auto-generated method stub
+		System.out.println("threee");
+
+	}
 	
 	
 
